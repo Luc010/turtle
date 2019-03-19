@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/luc/TURTLE/views/home.php</file>
+            <file>file:/home/luc/TURTLE/controllers/user_configCtrl.php</file>
+            <file>file:/home/luc/TURTLE/views/register.php</file>
+            <file>file:/home/luc/TURTLE/views/include/footer.php</file>
+            <file>file:/home/luc/TURTLE/assets/js/script.js</file>
+            <file>file:/home/luc/TURTLE/models/topics.php</file>
+            <file>file:/home/luc/TURTLE/models/user.php</file>
+            <file>file:/home/luc/TURTLE/models/category.php</file>
+            <file>file:/home/luc/TURTLE/controllers/menuCtrl.php</file>
+            <file>file:/home/luc/TURTLE/views/category_list.php</file>
+            <file>file:/home/luc/TURTLE/index.php</file>
+            <file>file:/home/luc/TURTLE/views/topic_form.php</file>
+            <file>file:/home/luc/TURTLE/views/user_profil.php</file>
+            <file>file:/home/luc/TURTLE/views/include/header.php</file>
+            <file>file:/home/luc/TURTLE/controllers/ressourcesCtrl.php</file>
+            <file>file:/home/luc/TURTLE/controllers/aide_partageCtrl.php</file>
+            <file>file:/home/luc/TURTLE/assets/css/style.css</file>
+            <file>file:/home/luc/TURTLE/autoload.php</file>
+            <file>file:/home/luc/TURTLE/controllers/category_formCtrl.php</file>
+            <file>file:/home/luc/TURTLE/views/connexion.php</file>
+            <file>file:/home/luc/TURTLE/models/message.php</file>
+            <file>file:/home/luc/TURTLE/views/category_form.php</file>
+            <file>file:/home/luc/TURTLE/controllers/user_listCtrl.php</file>
+            <file>file:/home/luc/TURTLE/views/include/menu.php</file>
+            <file>file:/home/luc/TURTLE/models/role.php</file>
+            <file>file:/home/luc/TURTLE/assets/img/logo.png</file>
+            <file>file:/home/luc/TURTLE/views/include/navbar.php</file>
+            <file>file:/home/luc/TURTLE/controllers/topic_formCtrl.php</file>
+            <file>file:/home/luc/TURTLE/controllers/create_lessonCtrl.php</file>
+            <file>file:/home/luc/TURTLE/controllers/posts_formCtrl.php</file>
+            <file>file:/home/luc/TURTLE/assets/img/background.jpg</file>
+            <file>file:/home/luc/TURTLE/assets/lib/bootstrap-4.2.1-dist/css/bootstrap.min.css</file>
+            <file>file:/home/luc/TURTLE/views/user_config.php</file>
+            <file>file:/home/luc/TURTLE/views/user_list.php</file>
+            <file>file:/home/luc/TURTLE/models/connect_DB.php</file>
+            <file>file:/home/luc/TURTLE/controllers/navbarCtrl.php</file>
+            <file>file:/home/luc/TURTLE/assets/img/user.png</file>
+            <file>file:/home/luc/TURTLE/controllers/registerCtrl.php</file>
+            <file>file:/home/luc/TURTLE/controllers/category_listCtrl.php</file>
+            <file>file:/home/luc/TURTLE/models/posts.php</file>
+            <file>file:/home/luc/TURTLE/views/user_premium.php</file>
+            <file>file:/home/luc/TURTLE/views/ressources.php</file>
+            <file>file:/home/luc/TURTLE/views/topics.php</file>
+            <file>file:/home/luc/TURTLE/controllers/connexionCtrl.php</file>
+            <file>file:/home/luc/TURTLE/views/aide_partage.php</file>
+            <file>file:/home/luc/TURTLE/controllers/user_premiumCtrl.php</file>
+            <file>file:/home/luc/TURTLE/models/course.php</file>
+            <file>file:/home/luc/TURTLE/controllers/user_profilCtrl.php</file>
+            <file>file:/home/luc/TURTLE/.htaccess</file>
+        </group>
+    </open-files>
+</project-private>

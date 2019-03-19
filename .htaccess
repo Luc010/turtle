@@ -1,0 +1,24 @@
+<ifmodule mod_rewrite.c>
+    Options +FollowSymlinks
+    RewriteEngine on
+    RewriteRule ^connexion$ views/connexion.php [L,QSA]
+    RewriteRule ^accueil$ views/home.php [L,QSA]
+    RewriteRule ^bienvenue$ index.php [L,QSA]
+    RewriteRule ^créer_catégorie/(.*)$ views/category_form.php [L,QSA]
+    RewriteRule ^créer_sujet/(.*)$ views/topic_form.php [L,QSA]  
+    RewriteRule ^afficher_cours/(.*)$ views/view_lesson.php [L,QSA]
+    RewriteRule ^ressources$ views/ressources.php [L,QSA]
+    RewriteRule ^aide-partage$ views/aide_partage.php [L,QSA]
+    RewriteRule ^inscription$ views/register.php [L,QSA]
+    RewriteRule ^profil/(.*)$ views/user_profil.php [L,QSA]
+    RewriteRule ^premium/(.*)$ views/user_premium.php [L,QSA]
+    RewriteRule ^paramètres/(.*)$ views/user_config.php [L,QSA]
+    RewriteRule ^liste_utilisateur/(.*)$ views/user_list.php [L,QSA]
+    RewriteRule ^listeDesSujets?(.*)$ views/topics_list.php?$cat_id=$1.php [L,QSA]  
+    RewriteRule ^sujet?(.*)$ views/topics.php?$topic_id=$1.php [L,QSA]   
+    RewriteRule ^course/(.*)$ views/course?1$.php [L,QSA]
+    ErrorDocument 401 /erreurs/erreur_401.php
+    ErrorDocument 403 /erreurs/erreur_403.php
+    ErrorDocument 404 /erreurs/erreur_404.php
+    ErrorDocument 500 /erreurs/erreur_500.php
+</ifmodule>
